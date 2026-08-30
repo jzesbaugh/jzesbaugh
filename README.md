@@ -1,6 +1,6 @@
 # Jesse Zesbaugh
 
-Operator and founder, twenty years running the functions a small organization can't afford to specialize — growth, comms, product, compliance, operations. Currently finishing a B.S. in Cybersecurity and Information Assurance (expected October 2026) while working as a technical lead in live event AV.
+Operator and founder — twenty years running the functions a small organization can't afford to specialize: growth, comms, product, compliance, operations. Working in security and AI evaluation, with a hands-on technical lead role in live event AV.
 
 **[Read my resume](https://jzesbaugh.github.io/resume/)** — thirteen interview questions, answered in advance, in one HTML file. No chatbot, no build step, every answer cited to its source.
 
@@ -15,4 +15,5 @@ Operator and founder, twenty years running the functions a small organization ca
 - **[pentest-plus-study-tool](https://github.com/jzesbaugh/pentest-plus-study-tool)** — a free, no-login CompTIA PenTest+ (PT0-003) study console: 91 tools mapped to exam objectives, a match-drill quiz, password-based progress saves.
 - **[resume](https://github.com/jzesbaugh/resume)** — source for the resume site above.
 
-Two decades in cannabis-industry digital strategy, marketplaces and media production, moving deliberately into security and AI evaluation since 2022. The resume linked above has the honest version of how those connect.
+Background spans cannabis-industry digital strategy, marketplaces and media production, alongside a deliberate move into security and AI evaluation. The resume linked above has the honest version of how those connect.
+
